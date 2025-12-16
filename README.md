@@ -68,8 +68,8 @@ INSTALLATION
 
 1. Clone the repository
 
-    git clone https://github.com/your-username/mediafire-auto-downloader.git
-    cd mediafire-auto-downloader
+    git clone https://github.com/Giriprakash7/MediaFireAuto-Downloader.git
+    cd MediaFireAuto-Downloader
 
 2. Install dependencies
 
